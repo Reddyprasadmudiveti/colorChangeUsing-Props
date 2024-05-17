@@ -1,8 +1,9 @@
-# React + Vite
+**This is a simple color changing project using react props**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<video width="320" height="240" controls>
+  <source src="./src/assets/Screen Recording 2024-05-17 at 7.03.05 AM.mp4" type="video/mp4">
+</video>
 
-Currently, two official plugins are available:
+* Above video shows Demo of this project
+* You can enter any color of you want it shows that in the above container
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

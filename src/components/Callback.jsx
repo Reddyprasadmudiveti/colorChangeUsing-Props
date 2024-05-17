@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 const Callback = ({ getcolor }) => {
-  const [activeColor, setActivecolor] = useState("yellow");
+  const [activeColor, setActivecolor] = useState("");
 
   const handleChange = (e) => {
     const { value } = e.target;
@@ -17,9 +17,8 @@ const Callback = ({ getcolor }) => {
         className="text-sm pl-2"
         name="color"
         placeholder="Enter any color value"
-        aria-label="input"
         onChange={handleChange}
-        // value={activeColor}
+        style={{ backgroundColor: `${activeColor}` }}
       ></input>
     </div>
   );
