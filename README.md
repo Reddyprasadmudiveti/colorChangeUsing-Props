@@ -1,7 +1,7 @@
 **This is a simple color changing project using react props**
 
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/Reddyprasadmudiveti/colorChangeUsing-Props/assets/143475078/7f28b81c-7a00-432f-a3ad-d3f6d42bff87))
+[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://github.com/Reddyprasadmudiveti/colorChangeUsing-Props/assets/143475078/7f28b81c-7a00-432f-a3ad-d3f6d42bff87))
 
 
 
